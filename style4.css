@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  height: 550px;
+  width: 100%;
+  background-color: #ffa500;
+}
+
+nav{
+  height: 50px;
+  width: 100%;
+  background-color: red;
+}
+
+main{
+  height: 96px;
+  margin: 0 auto;
+  display: flex;
+  justify-content:center;
+}
+
+sidebar1{
+  height: 1400px;
+  width: 230px;
+  background-color: #98fb98;
+}
+
+blog{
+  height: 1400px;
+  width: 500px;
+  background-color: green;
+}
+
+sidebar2{
+  height: 1400px;
+  width: 230px;
+  background-color: #98fb98;
+}
+
+.style{
+  height: 100px;
+  width: 100%;
+  background-color: #0000ff;
+}
